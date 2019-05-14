@@ -9,8 +9,8 @@ import {urlParse} from './common/js/util';
 import header from './components/header/header.vue'
 const response=require('./common/data/seller.json');
 const ERR_OK = 0;
+
 export default {
-  // name: 'App',
   data(){
       seller: {
           id: (() => {
