@@ -87,7 +87,7 @@ export default {
 }
 </script>
 
-<style lang="stylus">
+<style lang="stylus" rel="stylesheet/stylus">
 @import "../../common/stylus/mixin";
 .header
     width:100%;background-color: rgba(7,17,27,0.5);height:11rem
